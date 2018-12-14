@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT erintestv1crowdboticscom_e_496.wsgi:application
